@@ -86,5 +86,4 @@ void GGG2D_DrawHumanEye_IrisPupil(int posX, int posY, int pupilSize, int irisSiz
 	
 	GGG2D_DrawCircle_internal(&pupil_circle,pupil_color);
 	
-	
 }
